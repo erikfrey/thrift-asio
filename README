@@ -1,0 +1,1 @@
+Simplify thrift cpp lib by relying on asio/boost
